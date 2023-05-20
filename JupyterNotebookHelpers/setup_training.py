@@ -1,4 +1,4 @@
-from IPython.display import clear_output
+from IPython.display import clear_output, display
 import os
 import sys
 import shutil
